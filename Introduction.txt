@@ -1,0 +1,15 @@
+Introduction
+
+This project is going to use Jupyter Notebook to analyze GEO data of Sydney Metro suburbs.
+
+As part of the Data Science assignment, it'll use public available data as well as various
+libraries and tools. The Foursquare location data will be used during the excercise.
+
+Business Problem
+
+Often people feel lost when trying to make decision based on location. The data is either not available
+or not well organized. This project is trying to resolve this problem by analyzing various related data.
+
+Based on the detail analysis, interesting party may make business decision with more information and
+confidence. For example, a potential property investor may purchase a property in suburbs which have
+more desired facilities.  A small business may open a coffee shop in a suburb to maximize the profit.

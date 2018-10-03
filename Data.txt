@@ -1,0 +1,8 @@
+Data Description
+
+The Sydney metro data is from this link:
+
+https://www.prospectshop.com.au/Files/SydneyMetro_Postcodes.xls
+
+The original data format will be transformed to work together with the other APIs.
+The location data come from the Foursquare.
