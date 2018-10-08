@@ -11,3 +11,12 @@ The location data come from the Foursquare.
 https://gist.github.com/randomecho/5020859
 
 Need to import the data from the above URL into MySQL and then export the data as .csv file
+
+
+https://jaszhou.github.io/capstone/CapstoneProject.html
+
+
+https://github.com/jaszhou/capstone/blob/master/CapstoneProject.pdf
+
+
+https://github.com/jaszhou/capstone/blob/master/Sydney_Metro.ipynb
