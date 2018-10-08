@@ -6,3 +6,8 @@ https://www.prospectshop.com.au/Files/SydneyMetro_Postcodes.xls
 
 The original data format will be transformed to work together with the other APIs.
 The location data come from the Foursquare.
+
+
+https://gist.github.com/randomecho/5020859
+
+Need to import the data from the above URL into MySQL and then export the data as .csv file
