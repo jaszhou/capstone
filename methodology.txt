@@ -1,1 +1,27 @@
 Credit Card
+
+CENSUS_DATA
+CHICAGO_PUBLIC_SCHOOLS
+CHICAGO_CRIME_DATA
+
+college_enrollment__number_of_students_ community_area_name
+
+healthy_schools_certified_='Yes'
+
+select MIN(sc.average_student_attendance) \
+where c.hardship_index=96 \
+
+
+%sql select * \
+from CENSUS_DATA join CHICAGO_PUBLIC_SCHOOLS  \
+on CENSUS_DATA.Community_Area_Number=CHICAGO_PUBLIC_SCHOOLS.community_area_number ;
+
+
+%sql select MIN(CHICAGO_PUBLIC_SCHOOLS.average_student_attendance) \
+from CHICAGO_PUBLIC_SCHOOLS,CENSUS_DATA  where CHICAGO_PUBLIC_SCHOOLS.community_area_number \
+=CENSUS_DATA.Community_Area_Number and CENSUS_DATA.hardship_index=96;
+
+in (select Community_Area_Number from CENSUS_DATA where CENSUS_DATA.hardship_index=96) ;
+
+
+https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/947ad32e-ca81-4c08-a36c-6ac2bdd17bde/view?access_token=0c6a20a0e37cc6f4b0315888eceb699e304ca3182ab8568dcce585bf447b4170
